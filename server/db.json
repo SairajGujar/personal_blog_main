@@ -1,0 +1,16 @@
+[
+  {
+    "id": 4,
+    "createdAt": "2024-12-05T14:51:55.151Z",
+    "updatedAt": "2024-12-05T14:52:13.069Z",
+    "title": "new blog 3 modified",
+    "content": "new blog 3 modified"
+  },
+  {
+    "id": 2,
+    "createdAt": "2024-12-05T17:07:56.644Z",
+    "updatedAt": "2024-12-05T17:07:56.644Z",
+    "title": "This is my 2nd blog",
+    "content": "This blog aims to teach you about philosophy"
+  }
+]
